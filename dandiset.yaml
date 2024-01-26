@@ -23,8 +23,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: two-photon microscopy technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2331450193628
-  numberOfFiles: 190
+  numberOfBytes: 6263867545400
+  numberOfFiles: 284
   numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
@@ -120,7 +120,7 @@ contributor:
   roleName: []
   schemaKey: Organization
 dateCreated: '2024-01-19T18:43:55.864337+00:00'
-datePublished: '2024-01-24T00:45:28.505889+00:00'
+datePublished: '2024-01-26T05:09:09.982250+00:00'
 description: "This dataset was collected for the Dendritic Coupling project, as part
   of the Allen Institute's OpenScope project. \nPredictive coding hypotheses posit
   that perception is an active process whereby brain regions predict incoming sensory
@@ -154,7 +154,7 @@ ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
   identifier: ' ​Allen Institute Institutional Animal Care and Use Committee (IACUC),
-    protocol 1801 '
+    protocol 2117 '
   schemaKey: EthicsApproval
 id: DANDI:000871/draft
 identifier: DANDI:000871
@@ -175,13 +175,13 @@ manifestLocation:
 name: Allen Institute Openscope - Predictive Learning and Somato-dendritic Coupling
 protocol: []
 publishedBy:
-  endDate: '2024-01-24T00:45:28.505889+00:00'
-  id: urn:uuid:dbd8438d-3b0a-41eb-94c9-becfa09bd033
+  endDate: '2024-01-26T05:09:09.982250+00:00'
+  id: urn:uuid:1757d3cc-7c02-497e-90a2-946604442153
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-01-24T00:45:28.505889+00:00'
+  startDate: '2024-01-26T05:09:09.982250+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:71129ed9-90e0-4c41-ae19-b8dfdebe554f
+  - id: urn:uuid:92304f07-01b6-4fbe-acd9-18d231eebce1
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
