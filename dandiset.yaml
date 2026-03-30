@@ -250,36 +250,8 @@ contributor:
   roleName: []
   schemaKey: Organization
 dateCreated: '2024-01-19T18:43:55.864337+00:00'
-description: "This dataset was collected for the Dendritic Coupling project, as part
-  of the Allen Institute's OpenScope project. \n\nPredictive coding hypotheses posit
-  that perception is an active process whereby brain regions predict incoming sensory
-  inputs, against which they are compared by other neural populations. Mismatches
-  between predictions and inputs result in error signals that can then be used to
-  update the predictive model encoded in synaptic weights, thereby driving plasticity.
-  Although increasing amounts of evidence are consistent with the general framework,
-  many different algorithmic implementations have been proposed, requiring further
-  experiments to test specific corollaries of these varied approaches. One important,
-  testable implication distinguishing some current theories involves the coupling
-  strength in L2/3 and L5 pyramidal neurons between distal apical dendrites, which
-  tend to receive top-down inputs that may include sensory prediction data, and their
-  conjoined somata, which are often driven by bottom-up inputs. In particular, error
-  signals are computed or else collocated in apical dendrites in some implementations,
-  resulting in a quiescent subunit when the prediction matches inputs—zero error—and,
-  thus, reduced dendro-somatic coupling during such times. In contrast, a separate
-  proposal implies the opposite: Since many apical dendritic voltage signals can only
-  reach their electrotonically segregated soma when facilitated by bursting induced
-  by concurrent somatic sensory inputs, dendro-somatic coupling would instead be strongest
-  when top-down predictions match bottom-up signals.\n\nOur experiment seeks to test
-  these hypotheses by near-simultaneously imaging L2/3 and L5 somata and distal apical
-  dendrites in mouse V1, LM, PM, and AM in transgenic lines that express GCaMP6f.
-  Imaging four distinct areas allows us to also examine the consistency of the coupling
-  rules, further putting the notion of a cortical canonical microcircuit to the test.
-  By habituating animals to sets of visual stimuli with spatiotemporal patterns that
-  are subsequently violated, we can evaluate the neural responses across the visual
-  cortical hierarchy. \n\nData streams collected in this study include 2-photon calcium
-  imaging of somata and dendrites, intrinsic signal imaging (ISI) mapping for area
-  identification, eye tracking to monitor gaze and pupillary responses, and running
-  wheel sensors to record locomotor activity during visual stimulation. \n"
+description: This Dataset was a pre-release. For the complete dataset, go to dandiset
+  000336, https://dandiarchive.org/dandiset/000336
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
@@ -303,7 +275,6 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000871/versions/draft/assets/
 name: Allen Institute Openscope - Predictive Learning and Somato-dendritic Coupling
-protocol: []
 relatedResource:
 - identifier: ' 10.1016/j.tins.2012.11.006 '
   name: 'A cellular mechanism for cortical associations: an organizing principle for
@@ -336,7 +307,6 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
-studyTarget: []
 url: https://dandiarchive.org/dandiset/000871/draft
 version: draft
 wasGeneratedBy: []
